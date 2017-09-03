@@ -1,0 +1,5 @@
+c:\users\www\documents\visual studio 2012\Projects\Anketa\Anketa\bin\Debug\Anketa.exe.config
+c:\users\www\documents\visual studio 2012\Projects\Anketa\Anketa\bin\Debug\Anketa.exe
+c:\users\www\documents\visual studio 2012\Projects\Anketa\Anketa\bin\Debug\Anketa.pdb
+c:\users\www\documents\visual studio 2012\Projects\Anketa\Anketa\obj\Debug\Anketa.exe
+c:\users\www\documents\visual studio 2012\Projects\Anketa\Anketa\obj\Debug\Anketa.pdb
